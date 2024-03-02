@@ -11,3 +11,5 @@ export * from './lib/f-header/f-header.component';
 export * from './lib/f-header/f-header-row/f-header-row.component';
 
 export * from './lib/f-draggable/f-drag-handle/f-drag-handle.directive';
+export * from './lib/f-draggable/f-draggable.directive';
+export * from './lib/f-draggable/domain/f-move-event';

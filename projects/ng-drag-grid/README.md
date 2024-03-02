@@ -2,6 +2,8 @@
 
 `@foblex/ng-drag-grid` is an Angular library designed for creating complex interfaces with drag-and-drop capabilities, perfect for implementing calendars, task boards, and other applications where item movement is required.
 
+[CALENDAR EXAMPLE](https://github.com/siarheihuzarevich/f-ng-calendar-demo)
+
 ## Features
 
 1. Easy-to-integrate grid with drag-and-drop support.
