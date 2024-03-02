@@ -3,5 +3,28 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+    "@foblex/ng-drag-grid": {
+      "projectType": "library",
+      "root": "projects/ng-drag-grid",
+      "sourceRoot": "projects/ng-drag-grid/src",
+      "prefix": "lib",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/ng-drag-grid/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/ng-drag-grid/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/ng-drag-grid/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        }
+      }
+    }
   }
 }

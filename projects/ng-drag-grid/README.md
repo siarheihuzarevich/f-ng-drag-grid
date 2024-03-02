@@ -18,7 +18,6 @@ npm install @foblex/ng-drag-grid --save
 
 ## Usage
 
-
 Example:
 ```typescript
   <f-drag-grid>
