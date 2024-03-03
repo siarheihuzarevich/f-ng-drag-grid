@@ -46,4 +46,7 @@ Example:
     </f-body>
   </f-drag-grid>
 ```
+## License
+
+This library is distributed under the MIT License. See the LICENSE file for more information.
 
