@@ -1,6 +1,6 @@
 {
   "name": "@foblex/ng-drag-grid",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Angular library designed for creating complex interfaces with drag-and-drop capabilities, perfect for implementing calendars, task boards, and other applications where item movement is required",
   "main": "index.js",
   "types": "index.d.ts",
