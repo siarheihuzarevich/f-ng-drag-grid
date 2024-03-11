@@ -22,7 +22,7 @@ npm install @foblex/ng-drag-grid --save
 
 
 Example:
-```typescript
+```html
   <f-drag-grid>
     <f-header>
       <f-header-row>
